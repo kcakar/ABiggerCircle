@@ -1,5 +1,7 @@
 # ABiggerCircle
 
+**Usage**
+Just use "npm start" command in "weather-app" folder.
 
 **Mood calculation logic:**
 The mood has the value between 0 and 100 and is calculated using 3 different variables.
